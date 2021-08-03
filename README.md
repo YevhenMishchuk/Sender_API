@@ -56,7 +56,7 @@ To connect Gmail Api need to do next steps
     After run file gmail_aut.py python create .json file for auth when you send messages.
 11. Run file gmail1.py
     Need understud that you nust have account gmail with enable Gmail Api. Messages will be sent from this account. 
-    Messages will be sent also just to gmail accounts.
+
     In file gmail1.py at 22 lines of code need add your gmail account with enable Gmail Api.
     We will automate this later. 
 
