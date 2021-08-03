@@ -19,7 +19,7 @@ from google.oauth2.credentials import Credentials
 
 # Request all access (permission to read/send/receive emails, manage the inbox, and more)
 SCOPES = ['https://mail.google.com/']
-our_email = 'jmishchuk@gmail.com'
+our_email = 'rkarter322@gmail.com'
 #SCOPES = ['https://www.googleapis.com/auth/gmail.readonly']
 
 
