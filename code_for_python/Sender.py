@@ -17,7 +17,8 @@ name_room=sys.argv[2]
 send_mess=sys.argv[3]
 #send_mess="sen 1 mes"
 #print(accessToken)
-#access_token = 'your_token_here'  
+#access_token = 'your_token_here'
+email_mess.our_email=sys.argv[4]  
 url = 'https://webexapis.com/v1/rooms'
 headers = {
     'Authorization': 'Bearer {}'.format(accessToken),
